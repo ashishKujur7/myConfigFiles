@@ -1,0 +1,8 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "Noto Sans Display Regular 10";
+ combi-modi: "drun,window";
+ icon-theme: "Qogir";
+ show-icons: true;
+ }
+@theme "Arc-Dark"
