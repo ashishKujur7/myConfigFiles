@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/ashish/MyMathsGithub/Cohn-Measure-Theory'
+let g:netrw_dirhist_7='/home/ashish/MyMathsGithub'
+let g:netrw_dirhist_6='/home/ashish'
+let g:netrw_dirhist_5='/home/ashish/lectureNotes/Lecture Notes in Partial Differential Equations'
+let g:netrw_dirhist_4='/home/ashish/lectureNotes/Lecture Notes in Analysis on Manifolds'
+let g:netrw_dirhist_3='/home/ashish/lectureNotes/Lecture Notes in Partial Differential Equations'
+let g:netrw_dirhist_2='/home/ashish/lectureNotes/Lecture Notes in Measure Theory'
+let g:netrw_dirhist_1='/home/ashish/.vim'
