@@ -75,3 +75,6 @@ set guifont=Hack\ Regular\ 11
 set guioptions-=T
 set guioptions-=r
 set guioptions-=m
+
+"Double Quotes Symbol
+let g:Tex_SmartKeyQuote=0
